@@ -1,0 +1,4 @@
+a=com.acc.accrpc.serializer.JdkSerializer
+b=com.acc.accrpc.serializer.HessianSerializer
+c=com.acc.accrpc.serializer.JsonSerializer
+d=com.acc.accrpc.serializer.KryoSerializer
